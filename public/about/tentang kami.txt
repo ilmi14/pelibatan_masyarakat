@@ -1,0 +1,24 @@
+Aplikasi pelibatan masyarakat dibuat oleh peserta kelas ngoding di perpustakaan umum indramayu.
+Adapun menu-menu pada aplikasi ini sebagai berikut :
+a. Registrasi peserta kelas pelibatan masyarakat
+b. Creat kelas pelibatan masyarakat
+c. Creat Tutor kelas pelibatan masyarakat
+d. Daftar hadir peserta
+e. Daftar hadrir Tutor
+f. Pengumuman peserta pelibatan masyarakat
+g. Post test dan pre test
+h. Tugas, Quiz, Ujian akhir
+i. Cetak sertifikat
+j. Report
+
+Developer :
+Fuad Hadi surya
+Sumitro Hadi harto
+Fathul ilmi N 
+Indra Nasuka
+Sugeng
+Rifki Ardiansya
+Trisna Nugroho
+--
+Contact Person : fathulilmi21@gmail.com
+NO WA : 089670184654
